@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.xn--jxq13oxman32cekas39r.com/sitemap.xml
